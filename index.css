@@ -1,0 +1,18 @@
+#header-container {
+    display: flex;
+    background-color: greenyellow;
+    position: fixed;
+    top:0px;
+    left: 0px;
+    right:0px;
+    height: 100px;
+}
+
+#search-box {
+    height: 20px;
+    width: 15%;
+}
+
+.header-content {
+    margin: auto;
+}
